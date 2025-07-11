@@ -1,0 +1,8 @@
+﻿  HolzCK2.cpp
+C:\Users\admin\source\repos\HolzCK2\HolzCK2\HolzCK2.cpp(7,15): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  Code wird generiert.
+  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  HolzCK2.vcxproj -> C:\Users\admin\source\repos\HolzCK2\x64\Release\HolzCK2.exe
