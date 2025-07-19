@@ -1,3 +1,0 @@
-﻿  HolzCK2.cpp
-C:\Users\admin\source\repos\HolzCK2\HolzCK2\HolzCK2.cpp(7,15): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
-  HolzCK2.vcxproj -> C:\Users\admin\source\repos\HolzCK2\x64\Debug\HolzCK2.exe
